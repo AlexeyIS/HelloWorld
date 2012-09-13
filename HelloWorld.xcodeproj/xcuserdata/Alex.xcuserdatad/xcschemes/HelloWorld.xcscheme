@@ -28,6 +28,16 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FABF8B8215EFF5090081D3C7"
+               BuildableName = "HelloWorldTest.octest"
+               BlueprintName = "HelloWorldTest"
+               ReferencedContainer = "container:HelloWorld.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference

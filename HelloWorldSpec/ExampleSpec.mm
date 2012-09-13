@@ -1,3 +1,5 @@
+#import <Cedar-iOS/Cedar-iOS.h>
+
 using namespace Cedar::Matchers;
 using namespace Cedar::Doubles;
 

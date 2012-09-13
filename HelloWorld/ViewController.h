@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface ViewController : UIViewController
-
+#import "Model.h"
+@interface ViewController : UIViewController <ModelDelgate>
+@property (nonatomic,strong) Model *model;
+@property (assign, nonatomic) IBOutlet UITextField *arg1;
+@property (assign, nonatomic) IBOutlet UITextField *arg2;
+@property (assign, nonatomic) IBOutlet UITextField *res;
 @end

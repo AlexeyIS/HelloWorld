@@ -1,0 +1,1 @@
+/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app

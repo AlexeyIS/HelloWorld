@@ -1,0 +1,327 @@
+THelloWorld
+v5
+r1
+cCheck dependencies
+cSymLink /Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app
+cProcessInfoPlistFile /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/Info.plist HelloWorld/HelloWorld-Info.plist
+cProcessPCH /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld-Prefix-fmnmftgcsbdnegbyvfcrocinmabe/HelloWorld-Prefix.pch.pth HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController.o /Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o /Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/Alex/Documents/HelloWorld/HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/Model.o /Users/Alex/Documents/HelloWorld/HelloWorld/Model.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorld normal i386
+cGenerateDSYMFile /Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app.dSYM /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorld
+cCompileStoryboard /Users/Alex/Documents/HelloWorld/HelloWorld/en.lproj/MainStoryboard_iPad.storyboard
+cCopyStringsFile /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/en.lproj/InfoPlist.strings HelloWorld/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/Alex/Documents/HelloWorld/HelloWorld/en.lproj/MainStoryboard_iPhone.storyboard
+cTouch /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app
+cStrip /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorld
+cTouch /Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app.dSYM
+cSetOwnerAndGroup Alex:staff /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app
+cSetMode u+w,go-w,a+rX /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050299FB70000000000244490
+t1344905143
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050299FB80000000000353830
+t1344905144
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050299FBC0000000000905E40
+t1344905148
+s9461312
+
+N/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app
+t2
+s0
+
+N/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorld
+t2
+s0
+
+N/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/Info.plist
+t2
+s0
+
+N/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/PkgInfo
+t2
+s0
+
+N/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/en.lproj/MainStoryboard_iPad.storyboardc
+t2
+s0
+
+N/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t2
+s0
+
+N/Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.h
+c00000000503FBD5C0000000000000122
+t1346354524
+s290
+
+N/Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.m
+c00000000503FBD5C00000000000007E4
+t1346354524
+s2020
+
+N/Users/Alex/Documents/HelloWorld/HelloWorld/HelloWorld-Prefix.pch
+c00000000503FBD5C0000000000000143
+t1346354524
+s323
+
+N/Users/Alex/Documents/HelloWorld/HelloWorld/Model.h
+c00000000503FD56600000000000001EA
+t1346360678
+s490
+
+N/Users/Alex/Documents/HelloWorld/HelloWorld/Model.m
+c00000000503FDF7B0000000000000230
+t1346363259
+s560
+
+N/Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.h
+c00000000503FE75F00000000000001DB
+t1346365279
+s475
+
+N/Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.m
+c00000000503FE3D100000000000004B0
+t1346364369
+s1200
+
+N/Users/Alex/Documents/HelloWorld/HelloWorld/en.lproj/InfoPlist.strings
+c00000000503FBD5C000000000000002D
+t1346354524
+s45
+
+N/Users/Alex/Documents/HelloWorld/HelloWorld/en.lproj/MainStoryboard_iPad.storyboard
+c00000000503FF1CE000000000000192A
+t1346367950
+s6442
+
+N/Users/Alex/Documents/HelloWorld/HelloWorld/en.lproj/MainStoryboard_iPhone.storyboard
+c00000000503FF1CA0000000000001AC1
+t1346367946
+s6849
+
+N/Users/Alex/Documents/HelloWorld/HelloWorld/main.m
+c00000000503FBD5C000000000000015D
+t1346354524
+s349
+
+N/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app
+t3
+s72
+
+N/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app.dSYM
+t1346449389
+s102
+
+N/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+t1346371208
+s76916
+
+N/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c00000000503FFE8700000000000001FA
+t1346371207
+s506
+
+N/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/Model.o
+t1346371208
+s9608
+
+N/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController.o
+t1346371208
+s73164
+
+N/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t1346371208
+s3156
+
+N/var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld-Prefix-fmnmftgcsbdnegbyvfcrocinmabe/HelloWorld-Prefix.pch.pth
+t1346369766
+s4095700
+
+NHelloWorld/HelloWorld-Info.plist
+c00000000503FED400000000000000649
+t1346366784
+s1609
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies33a6787467f1b541^aa278b7467f1b541^---0#1#0#--18"Check dependencies36"E8632E6F-730A-48E6-93CA-B99BDF5D062B-
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o /Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s368064007.411893
+e368064008.249341
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+x/Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.mbc95690736f0b541^fed53f0836f0b541^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.m0000000000000000^3565"CompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o HelloWorld/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Alex/Documents/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator -include /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld-Prefix-fmnmftgcsbdnegbyvfcrocinmabe/HelloWorld-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.dia -c /Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.m -o /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o36"7C76E778-E914-42AA-BB66-52B29E89D030-
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/Model.o /Users/Alex/Documents/HelloWorld/HelloWorld/Model.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s368064007.411897
+e368064008.169957
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/Model.o
+x/Users/Alex/Documents/HelloWorld/HelloWorld/Model.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/Alex/Documents/HelloWorld/HelloWorld/Model.m73a2690736f0b541^e0832b0836f0b541^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorld/Model.m0000000000000000^3529"CompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/Model.o HelloWorld/Model.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Alex/Documents/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator -include /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld-Prefix-fmnmftgcsbdnegbyvfcrocinmabe/HelloWorld-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/Model.d --serialize-diagnostics /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/Model.dia -c /Users/Alex/Documents/HelloWorld/HelloWorld/Model.m -o /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/Model.o36"5FDF32EC-BB78-4F2B-812C-302A811C45BA-
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController.o /Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s368064007.411909
+e368064008.240356
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController.o
+x/Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.m2096690736f0b541^4c883d0836f0b541^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.m0000000000000000^3583"CompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController.o HelloWorld/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Alex/Documents/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator -include /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld-Prefix-fmnmftgcsbdnegbyvfcrocinmabe/HelloWorld-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController.dia -c /Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.m -o /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/ViewController.o36"2803E014-BC19-4E6E-9423-66B03BF314DD-
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/Alex/Documents/HelloWorld/HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s368064007.411883
+e368064008.169987
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+x/Users/Alex/Documents/HelloWorld/HelloWorld/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/Alex/Documents/HelloWorld/HelloWorld/main.m5396690736f0b541^4c8a2b0836f0b541^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorld/main.m0000000000000000^3523"CompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Alex/Documents/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator -include /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld-Prefix-fmnmftgcsbdnegbyvfcrocinmabe/HelloWorld-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.dia -c /Users/Alex/Documents/HelloWorld/HelloWorld/main.m -o /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o36"C945A2A0-B571-4F87-A243-2B630AAE5390-
+
+CCompileStoryboard /Users/Alex/Documents/HelloWorld/HelloWorld/en.lproj/MainStoryboard_iPad.storyboard
+s368142196.752444
+e368142196.824811
+r1
+xCompileStoryboard
+x/Users/Alex/Documents/HelloWorld/HelloWorld/en.lproj/MainStoryboard_iPad.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"CompileStoryboard HelloWorld/en.lproj/MainStoryboard_iPad.storyboard59c4c07467f1b541^5727d37467f1b541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorld/en.lproj/MainStoryboard_iPad.storyboard0000000000000000^1118"CompileStoryboard HelloWorld/en.lproj/MainStoryboard_iPad.storyboard    cd /Users/Alex/Documents/HelloWorld    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/en.lproj/MainStoryboard_iPad.storyboardc /Users/Alex/Documents/HelloWorld/HelloWorld/en.lproj/MainStoryboard_iPad.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"B8D3D65F-64A9-417E-AE32-13F6DEC20D8E-
+
+CCompileStoryboard /Users/Alex/Documents/HelloWorld/HelloWorld/en.lproj/MainStoryboard_iPhone.storyboard
+s368142196.752464
+e368142197.080901
+r1
+xCompileStoryboard
+x/Users/Alex/Documents/HelloWorld/HelloWorld/en.lproj/MainStoryboard_iPhone.storyboard
+o2012-08-31 14:43:16.962 Interface Builder Cocoa Touch Tool[19479:2903] CFPreferences: user home directory at file://localhost/Users/Alex/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CompileStoryboard HelloWorld/en.lproj/MainStoryboard_iPhone.storyboard4dbfc07467f1b541^52b6147567f1b541^-238"2012-08-31 14:43:16.962 Interface Builder Cocoa Touch Tool[19479:2903] CFPreferences: user home directory at file://localhost/Users/Alex/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorld/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^1124"CompileStoryboard HelloWorld/en.lproj/MainStoryboard_iPhone.storyboard    cd /Users/Alex/Documents/HelloWorld    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/en.lproj/MainStoryboard_iPhone.storyboardc /Users/Alex/Documents/HelloWorld/HelloWorld/en.lproj/MainStoryboard_iPhone.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"2646A122-C823-4666-B749-2974724149D2-
+
+CCopyStringsFile /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/en.lproj/InfoPlist.strings HelloWorld/en.lproj/InfoPlist.strings
+s368142196.752457
+e368142196.757608
+r1
+xCopyStringsFile
+x/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/en.lproj/InfoPlist.strings
+xHelloWorld/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy HelloWorld/en.lproj/InfoPlist.stringsc5c6c07467f1b541^1ff3c17467f1b541^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorld/en.lproj/InfoPlist.strings0000000000000000^740"CopyStringsFile Frank/frankified_build/./Frankified.app/en.lproj/InfoPlist.strings HelloWorld/en.lproj/InfoPlist.strings    cd /Users/Alex/Documents/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/en.lproj -- HelloWorld/en.lproj/InfoPlist.strings36"E5384BE7-2F2D-4CB5-B5BD-0BF17723404E-
+
+CGenerateDSYMFile /Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app.dSYM /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorld
+s368142196.640599
+e368142196.744139
+r1
+xGenerateDSYMFile
+x/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app.dSYM
+x/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorld
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Generating /Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app.dSYM4018a47467f1b541^2481be7467f1b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app.dSYM/0000000000000000^790"GenerateDSYMFile build/Debug-iphonesimulator/Frankified.app.dSYM Frank/frankified_build/./Frankified.app/HelloWorld    cd /Users/Alex/Documents/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorld -o /Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app.dSYM36"12503B92-2DE4-4509-B93C-AF34DABCD501-
+
+CLd /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorld normal i386
+s368142196.576620
+e368142196.633487
+r1
+xLd
+x/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorld
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Link /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorldb9c2937467f1b541^302da27467f1b541^---0#0#0#--1401"Ld Frank/frankified_build/./Frankified.app/HelloWorld normal i386    cd /Users/Alex/Documents/HelloWorld    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator -F/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator -filelist /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -all_load -ObjC -framework CFNetwork -lShelley -lFrank -L Frank -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorld36"8A4CAF57-74E6-405E-9F0F-3A580A8687F4-
+
+CProcessInfoPlistFile /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/Info.plist HelloWorld/HelloWorld-Info.plist
+s368142196.550758
+e368142196.554444
+r1
+xProcessInfoPlistFile
+x/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/Info.plist
+xHelloWorld/HelloWorld-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process HelloWorld/HelloWorld-Info.plist9f208d7467f1b541^faef8d7467f1b541^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorld/HelloWorld-Info.plist0000000000000000^815"ProcessInfoPlistFile Frank/frankified_build/./Frankified.app/Info.plist HelloWorld/HelloWorld-Info.plist    cd /Users/Alex/Documents/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility HelloWorld/HelloWorld-Info.plist -genpkginfo /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/Info.plist36"218C8AE5-DEF7-4066-8C7A-0E8CA4EC5EF0-
+
+CProcessPCH /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorld-Prefix-fmnmftgcsbdnegbyvfcrocinmabe/HelloWorld-Prefix.pch.pth HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CSetMode u+w,go-w,a+rX /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app
+s368142197.149003
+e368142197.155220
+r1
+xSetMode
+xu+w,go-w,a+rX
+x/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"SetMode u+w,go-w,a+rX Frank/frankified_build/./Frankified.app693b267567f1b541^16bd277567f1b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/0000000000000000^574"SetMode u+w,go-w,a+rX Frank/frankified_build/./Frankified.app    cd /Users/Alex/Documents/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /bin/chmod -RH u+w,go-w,a+rX /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app36"46F30607-ED42-4A3B-A7B2-F10241A59DBE-
+
+CSetOwnerAndGroup Alex:staff /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app
+s368142197.132940
+e368142197.141387
+r1
+xSetOwnerAndGroup
+xAlex:staff
+x/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"SetOwnerAndGroup Alex:staff Frank/frankified_build/./Frankified.appbc20227567f1b541^b533247567f1b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/0000000000000000^586"SetOwnerAndGroup "Alex:staff" Frank/frankified_build/./Frankified.app    cd /Users/Alex/Documents/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/sbin/chown -RH "Alex:staff" /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app36"5A3275FA-4A78-4435-B5A5-AE03EDD072F1-
+
+CStrip /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorld
+s368142197.102613
+e368142197.111198
+r1
+xStrip
+x/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorld
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Strip Frank/frankified_build/./Frankified.app/HelloWorld1c5c1a7567f1b541^de771c7567f1b541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorld0000000000000000^644"Strip Frank/frankified_build/./Frankified.app/HelloWorld    cd /Users/Alex/Documents/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app/HelloWorld36"90CE20D0-617A-4339-88C1-56EEC88F2895-
+
+CSymLink /Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app
+s368064007.341220
+e368064007.392580
+r1
+xSymLink
+x/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app
+x/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Process /Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app158f570736f0b541^cc7f640736f0b541^---0#0#0#--662"SymLink build/Debug-iphonesimulator/Frankified.app Frank/frankified_build/./Frankified.app    cd /Users/Alex/Documents/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /bin/ln -sf /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app /Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app36"F279E1C9-5D65-4CF4-B7F4-7B6E91D2B5D4-
+
+CTouch /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app
+s368142197.088941
+e368142197.094592
+r1
+xTouch
+x/Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Touch /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app2bdc167567f1b541^f837187567f1b541^---0#0#0#--547"Touch Frank/frankified_build/./Frankified.app    cd /Users/Alex/Documents/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/Alex/Documents/HelloWorld/Frank/frankified_build/./Frankified.app36"E176391A-A2CD-44AE-9806-CDE61B29893C-
+
+CTouch /Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app.dSYM
+s368142197.119264
+e368142197.124985
+r1
+xTouch
+x/Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app.dSYM
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Touch /Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app.dSYM069f1e7567f1b541^efff1f7567f1b541^---0#0#0#--563"Touch build/Debug-iphonesimulator/Frankified.app.dSYM    cd /Users/Alex/Documents/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/Alex/Documents/HelloWorld/build/Debug-iphonesimulator/Frankified.app.dSYM36"5E62D440-E84F-45D4-8DC1-5D06BE3E17D2-
+

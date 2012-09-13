@@ -4,10 +4,20 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>HelloWorld copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 		<key>HelloWorld.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>HelloWorldSpec.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
 		</dict>
 		<key>HelloWorldTest.xcscheme</key>
 		<dict>
@@ -17,12 +27,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>FA4E60A716014B2C0013B19F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>FABF8B5915EFF4DC0081D3C7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>FABF8B8215EFF5090081D3C7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FAE91F8E15EFF704004F15B1</key>
 		<dict>
 			<key>primary</key>
 			<true/>
