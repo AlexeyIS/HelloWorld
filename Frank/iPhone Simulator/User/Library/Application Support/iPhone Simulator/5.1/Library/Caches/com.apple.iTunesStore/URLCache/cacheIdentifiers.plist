@@ -2,8 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<string>D41DscriptCache</string>
-	<string>D41DimageCache</string>
-	<string>D41DmiscCache</string>
+	<string>04AFscriptCache</string>
+	<string>04AFimageCache</string>
+	<string>04AFmiscCache</string>
 </array>
 </plist>

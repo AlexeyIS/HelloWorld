@@ -1,3 +1,6 @@
 [submodule "cedar"]
 	path = cedar
 	url = https://github.com/pivotal/cedar.git
+[submodule "frank-git"]
+	path = frank-git
+	url = git@github.com:rickerbh/Frank.git
