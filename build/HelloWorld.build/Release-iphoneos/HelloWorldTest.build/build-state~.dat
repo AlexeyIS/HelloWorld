@@ -1,169 +1,0 @@
-THelloWorldTest
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/Alex/Documents/HelloWorld/build/Release-iphoneos/HelloWorldTest.octest/Info.plist HelloWorldTest/HelloWorldTest-Info.plist
-cProcessPCH++ /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldTest-Prefix-gpeualkqfsugvybtvzaqidafujhw/HelloWorldTest-Prefix.pch.pth HelloWorldTest/HelloWorldTest-Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-
-N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
-c0000000050299FA50000000000030E60
-t1344905125
-s200288
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
-c000000004F453DF20000000000000110
-t1329937906
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000050299FA7000000000052C940
-t1344905127
-s5425472
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c0000000050299FA80000000000798EA0
-t1344905128
-s7966368
-
-N/Users/Alex/Documents/HelloWorld/HelloWorldTest/ExampleSpec.mm
-c00000000503FBD890000000000000460
-t1346354569
-s1120
-
-N/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Cedar-iOS
-c00000000503FBD2300000000001E7AB0
-t1346354467
-s1997488
-
-N/Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch
-c00000000503FBD8900000000000000EA
-t1346354569
-s234
-
-N/Users/Alex/Documents/HelloWorld/HelloWorldTest/en.lproj/InfoPlist.strings
-c00000000503FBD89000000000000002D
-t1346354569
-s45
-
-N/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorldTest.build/Objects-normal/armv7/ExampleSpec.o
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorldTest.build/Objects-normal/armv7/HelloWorldTest.LinkFileList
-c00000000504FAA240000000000000081
-t1347398180
-s129
-
-N/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorldTest.build/Script-FABF8B8115EFF5090081D3C7.sh
-c00000000504FAA240000000000000062
-t1347398180
-s98
-
-N/Users/Alex/Documents/HelloWorld/build/Release-iphoneos/HelloWorldTest.octest
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/Release-iphoneos/HelloWorldTest.octest.dSYM
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/Release-iphoneos/HelloWorldTest.octest/HelloWorldTest
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/Release-iphoneos/HelloWorldTest.octest/Info.plist
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/Release-iphoneos/HelloWorldTest.octest/en.lproj/InfoPlist.strings
-t2
-s0
-
-N/var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldTest-Prefix-gpeualkqfsugvybtvzaqidafujhw/HelloWorldTest-Prefix.pch.pth
-t2
-s0
-
-NHelloWorldTest/HelloWorldTest-Info.plist
-c00000000503FBD8900000000000002AA
-t1346354569
-s682
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5dde68a4e1ffb541^8cda69a4e1ffb541^---0#1#0#--18"Check dependencies36"B49A42BB-51FB-4A64-9DEE-DF6019070509-
-
-CCompileC build/HelloWorld.build/Release-iphoneos/HelloWorldTest.build/Objects-normal/armv7/ExampleSpec.o /Users/Alex/Documents/HelloWorld/HelloWorldTest/ExampleSpec.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCopyStringsFile /Users/Alex/Documents/HelloWorld/build/Release-iphoneos/HelloWorldTest.octest/en.lproj/InfoPlist.strings HelloWorldTest/en.lproj/InfoPlist.strings
-r0
-
-CGenerateDSYMFile /Users/Alex/Documents/HelloWorld/build/Release-iphoneos/HelloWorldTest.octest.dSYM /Users/Alex/Documents/HelloWorld/build/Release-iphoneos/HelloWorldTest.octest/HelloWorldTest
-r0
-
-CLd /Users/Alex/Documents/HelloWorld/build/Release-iphoneos/HelloWorldTest.octest/HelloWorldTest normal armv7
-r0
-
-CPhaseScriptExecution "Run Script" /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorldTest.build/Script-FABF8B8115EFF5090081D3C7.sh
-r0
-
-CProcessInfoPlistFile /Users/Alex/Documents/HelloWorld/build/Release-iphoneos/HelloWorldTest.octest/Info.plist HelloWorldTest/HelloWorldTest-Info.plist
-s369090980.420004
-e369090980.422723
-r1
-xProcessInfoPlistFile
-x/Users/Alex/Documents/HelloWorld/build/Release-iphoneos/HelloWorldTest.octest/Info.plist
-xHelloWorldTest/HelloWorldTest-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Process HelloWorldTest/HelloWorldTest-Info.plist40a06ba4e1ffb541^19386ca4e1ffb541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Info.plist0000000000000000^734"ProcessInfoPlistFile build/Release-iphoneos/HelloWorldTest.octest/Info.plist HelloWorldTest/HelloWorldTest-Info.plist    cd /Users/Alex/Documents/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility HelloWorldTest/HelloWorldTest-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/Alex/Documents/HelloWorld/build/Release-iphoneos/HelloWorldTest.octest/Info.plist36"905BB015-283D-4270-9A29-D65D997AC063-
-
-CProcessPCH++ /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldTest-Prefix-gpeualkqfsugvybtvzaqidafujhw/HelloWorldTest-Prefix.pch.pth HelloWorldTest/HelloWorldTest-Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-s369090980.430442
-e369090981.454965
-r0
-xProcessPCH++
-x/var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldTest-Prefix-gpeualkqfsugvybtvzaqidafujhw/HelloWorldTest-Prefix.pch.pth
-xHelloWorldTest/HelloWorldTest-Prefix.pch
-xnormal
-xarmv7
-xobjective-c++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch:8:
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h:1:
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h:38:
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h:3:
-o/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRClassFake.h:10:13: error: 'autorelease' is unavailable: not available in automatic reference counting mode
-o    return [[[CDRClassFake alloc] initWithClass:klass requireExplicitStubs:require_explicit_stubs] autorelease];
-o            ^
-o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:37:1: note: declaration has been explicitly marked unavailable here
-o- (id)autorelease NS_AUTOMATED_REFCOUNT_UNAVAILABLE;
-o^
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch:8:
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h:1:
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h:38:
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h:3:
-o/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRClassFake.h:10:13: error: ARC forbids explicit message send of 'autorelease'
-o    return [[[CDRClassFake alloc] initWithClass:klass requireExplicitStubs:require_explicit_stubs] autorelease];
-o            ^                                                                                      ~~~~~~~~~~~
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch:8:
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h:1:
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h:38:
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h:4:
-o/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRProtocolFake.h:40:13: error: 'autorelease' is unavailable: not available in automatic reference counting mode
-o    return [[[CDRProtocolFake alloc] initWithClass:klass forProtocol:protocol requireExplicitStubs:require_explicit_stubs] autorelease];
-o            ^
-o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:37:1: note: declaration has been explicitly marked unavailable here
-o- (id)autorelease NS_AUTOMATED_REFCOUNT_UNAVAILABLE;
-o^
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch:8:
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h:1:
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h:38:
-oIn file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h:4:
-o/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRProtocolFake.h:40:13: error: ARC forbids explicit message send of 'autorelease'
-o    return [[[CDRProtocolFake alloc] initWithClass:klass forProtocol:protocol requireExplicitStubs:require_explicit_stubs] autorelease];
-o            ^                                                                                                              ~~~~~~~~~~~
-o4 errors generated.
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile HelloWorldTest/HelloWorldTest-Prefix.pch24626ea4e1ffb541^4f7574a5e1ffb541^-4006"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch:8:In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h:1:In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h:38:In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h:3:/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRClassFake.h:10:13: error: 'autorelease' is unavailable: not available in automatic reference counting mode    return [[[CDRClassFake alloc] initWithClass:klass requireExplicitStubs:require_explicit_stubs] autorelease];            ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:37:1: note: declaration has been explicitly marked unavailable here- (id)autorelease NS_AUTOMATED_REFCOUNT_UNAVAILABLE;^In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch:8:In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h:1:In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h:38:In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h:3:/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRClassFake.h:10:13: error: ARC forbids explicit message send of 'autorelease'    return [[[CDRClassFake alloc] initWithClass:klass requireExplicitStubs:require_explicit_stubs] autorelease];            ^                                                                                      ~~~~~~~~~~~In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch:8:In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h:1:In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h:38:In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h:4:/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRProtocolFake.h:40:13: error: 'autorelease' is unavailable: not available in automatic reference counting mode    return [[[CDRProtocolFake alloc] initWithClass:klass forProtocol:protocol requireExplicitStubs:require_explicit_stubs] autorelease];            ^/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h:37:1: note: declaration has been explicitly marked unavailable here- (id)autorelease NS_AUTOMATED_REFCOUNT_UNAVAILABLE;^In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch:8:In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h:1:In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h:38:In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h:4:/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRProtocolFake.h:40:13: error: ARC forbids explicit message send of 'autorelease'    return [[[CDRProtocolFake alloc] initWithClass:klass forProtocol:protocol requireExplicitStubs:require_explicit_stubs] autorelease];            ^                                                                                                              ~~~~~~~~~~~4 errors generated.4(36%IDEClangDiagnosticActivityLogMessage2@80"'autorelease' is unavailable: not available in automatic reference counting mode-369090981#18446744073709551615#0#5(2@98"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch:8:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@89"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch0000000000000000^7#12#7#12#202#0#30"Apple LLVM compiler 4.0 Notice--2@124"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h:1:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h0000000000000000^0#8#0#8#8#0#30"Apple LLVM compiler 4.0 Notice--2@122"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h:38:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@112"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h0000000000000000^37#8#37#8#918#0#30"Apple LLVM compiler 4.0 Notice--2@126"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h:3:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@117"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h0000000000000000^2#8#2#8#47#0#30"Apple LLVM compiler 4.0 Notice--2@55"Declaration has been explicitly marked unavailable here-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@183"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h0000000000000000^36#0#36#0#936#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@117"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRClassFake.h0000000000000000^9#12#9#12#206#0#14"Semantic Issue--2@50"ARC forbids explicit message send of 'autorelease'-369090981#18446744073709551615#0#4(2@98"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch:8:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@89"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch0000000000000000^7#12#7#12#202#0#30"Apple LLVM compiler 4.0 Notice--2@124"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h:1:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h0000000000000000^0#8#0#8#8#0#30"Apple LLVM compiler 4.0 Notice--2@122"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h:38:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@112"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h0000000000000000^37#8#37#8#918#0#30"Apple LLVM compiler 4.0 Notice--2@126"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h:3:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@117"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h0000000000000000^2#8#2#8#47#0#30"Apple LLVM compiler 4.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@117"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRClassFake.h0000000000000000^9#12#9#12#206#0#16"ARC Restrictions1(3@117"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRClassFake.h0000000000000000^9#99#9#110#293#0#-2@80"'autorelease' is unavailable: not available in automatic reference counting mode-369090981#18446744073709551615#0#5(2@98"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch:8:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@89"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch0000000000000000^7#12#7#12#202#0#30"Apple LLVM compiler 4.0 Notice--2@124"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h:1:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h0000000000000000^0#8#0#8#8#0#30"Apple LLVM compiler 4.0 Notice--2@122"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h:38:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@112"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h0000000000000000^37#8#37#8#918#0#30"Apple LLVM compiler 4.0 Notice--2@126"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h:4:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@117"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h0000000000000000^3#8#3#8#72#0#30"Apple LLVM compiler 4.0 Notice--2@55"Declaration has been explicitly marked unavailable here-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@183"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h0000000000000000^36#0#36#0#936#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@120"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRProtocolFake.h0000000000000000^39#12#39#12#1743#0#14"Semantic Issue--2@50"ARC forbids explicit message send of 'autorelease'-369090981#18446744073709551615#0#4(2@98"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch:8:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@89"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch0000000000000000^7#12#7#12#202#0#30"Apple LLVM compiler 4.0 Notice--2@124"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h:1:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/SpecHelper.h0000000000000000^0#8#0#8#8#0#30"Apple LLVM compiler 4.0 Notice--2@122"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h:38:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@112"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRSpec.h0000000000000000^37#8#37#8#918#0#30"Apple LLVM compiler 4.0 Notice--2@126"In file included from /Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h:4:-369090981#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@117"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CedarDoubles.h0000000000000000^3#8#3#8#72#0#30"Apple LLVM compiler 4.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@120"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRProtocolFake.h0000000000000000^39#12#39#12#1743#0#16"ARC Restrictions1(3@120"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks/Cedar-iOS.framework/Headers/CDRProtocolFake.h0000000000000000^39#123#39#134#1854#0#-0#0#0#-19%DVTDocumentLocation4@89"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch0000000000000000^3923"ProcessPCH++ /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldTest-Prefix-gpeualkqfsugvybtvzaqidafujhw/HelloWorldTest-Prefix.pch.pth HelloWorldTest/HelloWorldTest-Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Alex/Documents/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch armv7 -fmessage-length=0 -std=gnu++11 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorldTest.build/HelloWorldTest-generated-files.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorldTest.build/HelloWorldTest-own-target-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorldTest.build/HelloWorldTest-all-target-headers.hmap -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorldTest.build/HelloWorldTest-project-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorldTest.build/DerivedSources/armv7 -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphoneos/HelloWorldTest.build/DerivedSources -F/Users/Alex/Documents/HelloWorld/build/Release-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/Alex/Documents/HelloWorld/HelloWorldTest/Frameworks -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldTest-Prefix-gpeualkqfsugvybtvzaqidafujhw/HelloWorldTest-Prefix.pch.dia -c /Users/Alex/Documents/HelloWorld/HelloWorldTest/HelloWorldTest-Prefix.pch -o /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldTest-Prefix-gpeualkqfsugvybtvzaqidafujhw/HelloWorldTest-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldTest-Prefix-gpeualkqfsugvybtvzaqidafujhw/HelloWorldTest-Prefix.pch.d36"ABB1CA1A-888A-49AC-AB44-5D5D89D2D9C9-
-
-CTouch /Users/Alex/Documents/HelloWorld/build/Release-iphoneos/HelloWorldTest.octest
-r0
-
