@@ -102,6 +102,7 @@
 		FAE91FAA15EFFC97004F15B1 /* ModelSpec.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ModelSpec.mm; sourceTree = "<group>"; };
 		FAE91FBC15F03660004F15B1 /* addtest.feature */ = {isa = PBXFileReference; lastKnownFileType = text; name = addtest.feature; path = Frank/features/addtest.feature; sourceTree = "<group>"; };
 		FAE91FC215F165B7004F15B1 /* launch_steps.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; name = launch_steps.rb; path = Frank/features/step_definitions/launch_steps.rb; sourceTree = "<group>"; };
+		FAF3F9A71603EB1500193449 /* HelloWorld copy2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "HelloWorld copy2-Info.plist"; path = "/Users/Alex/Documents/HelloWorld/HelloWorld copy2-Info.plist"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -215,6 +216,7 @@
 				FAE91FBC15F03660004F15B1 /* addtest.feature */,
 				FAE91FC215F165B7004F15B1 /* launch_steps.rb */,
 				FA4E60BA16014B2C0013B19F /* HelloWorld copy-Info.plist */,
+				FAF3F9A71603EB1500193449 /* HelloWorld copy2-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
