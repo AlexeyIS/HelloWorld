@@ -8,7 +8,7 @@ if environment == 'command_line'
  APP_BUNDLE_PATH =  "#{BASE_DIR}Build/Products/Debug-iphonesimulator/HelloWorld_Frankified.app"
  APP_DIR = "#{BASE_DIR}Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld_Frankified.build"
 elsif environment == 'jenkins'
- BASE_DIR = "/usr/local/Cellar/jenkins/jobs/HelloWorldUI/workspace/"
+ BASE_DIR = "~/.jenkins/jobs/HelloWorldUI/workspace/"
  APP_BUNDLE_PATH =  "#{BASE_DIR}build/Debug-iphonesimulator/HelloWorld_Frankified.app"
  APP_DIR = "#{BASE_DIR}build/HelloWorld.build/Debug_iphonesimulator/HelloWorld_Frankified.build"
 end
