@@ -1,287 +1,0 @@
-THelloWorldSpec
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/Info.plist HelloWorldSpec/HelloWorldSpec-Info.plist
-cProcessPCH /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-ejrpalhbvbaudzbkorkdppirrmlr/HelloWorldSpec-Prefix.pch.pth HelloWorldSpec/HelloWorldSpec-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH++ /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-gjvogupfnvazvqbwpstrykdudjxy/HelloWorldSpec-Prefix.pch.pth HelloWorldSpec/HelloWorldSpec-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/AppDelegate.o /Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/main.o /Users/Alex/Documents/HelloWorld/HelloWorldSpec/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/Model.o /Users/Alex/Documents/HelloWorld/HelloWorld/Model.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ViewController.o /Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ModelSpec.o /Users/Alex/Documents/HelloWorld/HelloWorldSpec/ModelSpec.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/HelloWorldSpec normal i386
-cGenerateDSYMFile /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app.dSYM /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/HelloWorldSpec
-cCopyStringsFile /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/en.lproj/InfoPlist.strings HelloWorldSpec/en.lproj/InfoPlist.strings
-cTouch /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
-c000000004F453DF80000000000000110
-t1329937912
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c0000000050299FB70000000000244490
-t1344905143
-s2376848
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000050299FB80000000000353830
-t1344905144
-s3487792
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c0000000050299FBC0000000000905E40
-t1344905148
-s9461312
-
-N/Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.m
-c00000000503FBD5C00000000000007E4
-t1346354524
-s2020
-
-N/Users/Alex/Documents/HelloWorld/HelloWorld/Model.m
-c00000000503FDF7B0000000000000230
-t1346363259
-s560
-
-N/Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.m
-c0000000050414C7C00000000000004B2
-t1346456700
-s1202
-
-N/Users/Alex/Documents/HelloWorld/HelloWorldSpec/Frameworks/Cedar-iOS.framework/Cedar-iOS
-c00000000503FBE9900000000001E5AA0
-t1346354841
-s1989280
-
-N/Users/Alex/Documents/HelloWorld/HelloWorldSpec/HelloWorldSpec-Prefix.pch
-c00000000503FBF8400000000000000EA
-t1346355076
-s234
-
-N/Users/Alex/Documents/HelloWorld/HelloWorldSpec/ModelSpec.mm
-c0000000050502EDC000000000000038C
-t1347432156
-s908
-
-N/Users/Alex/Documents/HelloWorld/HelloWorldSpec/en.lproj/InfoPlist.strings
-c00000000503FBF84000000000000002D
-t1346355076
-s45
-
-N/Users/Alex/Documents/HelloWorld/HelloWorldSpec/main.m
-c00000000503FBF84000000000000015E
-t1346355076
-s350
-
-N/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/AppDelegate.o
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/HelloWorldSpec.LinkFileList
-c0000000050526A680000000000000297
-t1347578472
-s663
-
-N/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/Model.o
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ModelSpec.o
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ViewController.o
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/main.o
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app.dSYM
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/HelloWorldSpec
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/Info.plist
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/PkgInfo
-t2
-s0
-
-N/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/en.lproj/InfoPlist.strings
-t2
-s0
-
-N/var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-ejrpalhbvbaudzbkorkdppirrmlr/HelloWorldSpec-Prefix.pch.pth
-t2
-s0
-
-N/var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-gjvogupfnvazvqbwpstrykdudjxy/HelloWorldSpec-Prefix.pch.pth
-t2
-s0
-
-NHelloWorldSpec/HelloWorldSpec-Info.plist
-c00000000503FE81100000000000003B1
-t1346365457
-s945
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies1d8f45e8a102b641^46ef58e8a102b641^---0#1#0#--18"Check dependencies36"F5E04048-D5CC-41D8-AC23-D770A649E1C3-
-
-CCompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/AppDelegate.o /Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s369271272.875255
-e369271272.954431
-r1
-xCompileC
-xbuild/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/AppDelegate.o
-x/Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.m3449e0e8a102b641^5056f4e8a102b641^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.m0000000000000000^3780"CompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/AppDelegate.o HelloWorld/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Alex/Documents/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -fprofile-arcs -ftest-coverage -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-generated-files.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-own-target-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-all-target-headers.hmap -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-project-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/DerivedSources/i386 -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/DerivedSources -F/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator -F/Users/Alex/Documents/HelloWorld/HelloWorldSpec/Frameworks -DNS_BLOCK_ASSERTIONS=1 -fno-objc-arc -include /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-ejrpalhbvbaudzbkorkdppirrmlr/HelloWorldSpec-Prefix.pch -MMD -MT dependencies -MF /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/AppDelegate.dia -c /Users/Alex/Documents/HelloWorld/HelloWorld/AppDelegate.m -o /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/AppDelegate.o36"9043C6FB-247B-4ED0-880C-0E0C1E491619-
-
-CCompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/Model.o /Users/Alex/Documents/HelloWorld/HelloWorld/Model.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s369271272.875284
-e369271272.923445
-r1
-xCompileC
-xbuild/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/Model.o
-x/Users/Alex/Documents/HelloWorld/HelloWorld/Model.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/Alex/Documents/HelloWorld/HelloWorld/Model.m7156e0e8a102b641^ec68ece8a102b641^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorld/Model.m0000000000000000^3744"CompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/Model.o HelloWorld/Model.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Alex/Documents/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -fprofile-arcs -ftest-coverage -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-generated-files.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-own-target-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-all-target-headers.hmap -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-project-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/DerivedSources/i386 -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/DerivedSources -F/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator -F/Users/Alex/Documents/HelloWorld/HelloWorldSpec/Frameworks -DNS_BLOCK_ASSERTIONS=1 -fno-objc-arc -include /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-ejrpalhbvbaudzbkorkdppirrmlr/HelloWorldSpec-Prefix.pch -MMD -MT dependencies -MF /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/Model.d --serialize-diagnostics /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/Model.dia -c /Users/Alex/Documents/HelloWorld/HelloWorld/Model.m -o /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/Model.o36"8AA87ED8-7FBF-49B4-8D2B-BEDEEF89E5FB-
-
-CCompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ModelSpec.o /Users/Alex/Documents/HelloWorld/HelloWorldSpec/ModelSpec.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-s369271273.126523
-e369271273.499481
-r1
-xCompileC
-xbuild/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ModelSpec.o
-x/Users/Alex/Documents/HelloWorld/HelloWorldSpec/ModelSpec.mm
-xnormal
-xi386
-xobjective-c++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-o/Users/Alex/Documents/HelloWorld/HelloWorldSpec/ModelSpec.mm:9:20: warning: unused variable 'model' [-Wunused-variable]
-o    __block Model *model;
-o                   ^
-o1 warning generated.
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/Alex/Documents/HelloWorld/HelloWorldSpec/ModelSpec.mmd7a320e9a102b641^b1df7fe9a102b641^-188"/Users/Alex/Documents/HelloWorld/HelloWorldSpec/ModelSpec.mm:9:20: warning: unused variable 'model' [-Wunused-variable]    __block Model *model;                   ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@23"Unused variable 'model'-369271273#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldSpec/ModelSpec.mm0000000000000000^8#19#8#19#149#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@76"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldSpec/ModelSpec.mm0000000000000000^3897"CompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ModelSpec.o HelloWorldSpec/ModelSpec.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Alex/Documents/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -std=gnu++11 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -fprofile-arcs -ftest-coverage -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-generated-files.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-own-target-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-all-target-headers.hmap -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-project-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/DerivedSources/i386 -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/DerivedSources -F/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator -F/Users/Alex/Documents/HelloWorld/HelloWorldSpec/Frameworks -fno-objc-arc -include /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-gjvogupfnvazvqbwpstrykdudjxy/HelloWorldSpec-Prefix.pch -MMD -MT dependencies -MF /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ModelSpec.d --serialize-diagnostics /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ModelSpec.dia -c /Users/Alex/Documents/HelloWorld/HelloWorldSpec/ModelSpec.mm -o /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ModelSpec.o36"CBADE8EA-2E9A-4D97-8310-F56A8F579FBE-
-
-CCompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ViewController.o /Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s369271272.875291
-e369271272.948037
-r1
-xCompileC
-xbuild/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ViewController.o
-x/Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.m0648e0e8a102b641^8eb2f2e8a102b641^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.m0000000000000000^3798"CompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ViewController.o HelloWorld/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Alex/Documents/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -fprofile-arcs -ftest-coverage -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-generated-files.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-own-target-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-all-target-headers.hmap -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-project-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/DerivedSources/i386 -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/DerivedSources -F/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator -F/Users/Alex/Documents/HelloWorld/HelloWorldSpec/Frameworks -DNS_BLOCK_ASSERTIONS=1 -fno-objc-arc -include /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-ejrpalhbvbaudzbkorkdppirrmlr/HelloWorldSpec-Prefix.pch -MMD -MT dependencies -MF /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ViewController.dia -c /Users/Alex/Documents/HelloWorld/HelloWorld/ViewController.m -o /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/ViewController.o36"80469078-3F24-410F-B358-87E287C20A3A-
-
-CCompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/main.o /Users/Alex/Documents/HelloWorld/HelloWorldSpec/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s369271272.875271
-e369271272.905520
-r1
-xCompileC
-xbuild/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/main.o
-x/Users/Alex/Documents/HelloWorld/HelloWorldSpec/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/Alex/Documents/HelloWorld/HelloWorldSpec/main.m8849e0e8a102b641^7dd0e7e8a102b641^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldSpec/main.m0000000000000000^3746"CompileC build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/main.o HelloWorldSpec/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Alex/Documents/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -fprofile-arcs -ftest-coverage -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-generated-files.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-own-target-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-all-target-headers.hmap -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-project-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/DerivedSources/i386 -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/DerivedSources -F/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator -F/Users/Alex/Documents/HelloWorld/HelloWorldSpec/Frameworks -DNS_BLOCK_ASSERTIONS=1 -fno-objc-arc -include /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-ejrpalhbvbaudzbkorkdppirrmlr/HelloWorldSpec-Prefix.pch -MMD -MT dependencies -MF /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/main.dia -c /Users/Alex/Documents/HelloWorld/HelloWorldSpec/main.m -o /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/main.o36"5F1D56F1-63EF-453D-BC21-34E439BEBF51-
-
-CCopyStringsFile /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/en.lproj/InfoPlist.strings HelloWorldSpec/en.lproj/InfoPlist.strings
-s369271273.623239
-e369271273.626015
-r1
-xCopyStringsFile
-x/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/en.lproj/InfoPlist.strings
-xHelloWorldSpec/en.lproj/InfoPlist.strings
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy HelloWorldSpec/en.lproj/InfoPlist.strings2fa89fe9a102b641^1c43a0e9a102b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldSpec/en.lproj/InfoPlist.strings0000000000000000^766"CopyStringsFile build/Release-iphonesimulator/HelloWorldSpec.app/en.lproj/InfoPlist.strings HelloWorldSpec/en.lproj/InfoPlist.strings    cd /Users/Alex/Documents/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/en.lproj -- HelloWorldSpec/en.lproj/InfoPlist.strings36"8C7E2607-1315-47B4-88EF-09B5159C3E46-
-
-CGenerateDSYMFile /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app.dSYM /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/HelloWorldSpec
-s369271273.559872
-e369271273.614666
-r1
-xGenerateDSYMFile
-x/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app.dSYM
-x/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/HelloWorldSpec
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Generating /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app.dSYMf96a8fe9a102b641^145b9de9a102b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app.dSYM000000000080d041^828"GenerateDSYMFile build/Release-iphonesimulator/HelloWorldSpec.app.dSYM build/Release-iphonesimulator/HelloWorldSpec.app/HelloWorldSpec    cd /Users/Alex/Documents/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/HelloWorldSpec -o /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app.dSYM36"AC50DFFB-22E6-4506-B176-AAAA37BE47B5-
-
-CLd /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/HelloWorldSpec normal i386
-s369271273.506532
-e369271273.552921
-r1
-xLd
-x/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/HelloWorldSpec
-xnormal
-xi386
-old: warning: direct access in Cedar::Doubles::HaveReceived::~HaveReceived() to global weak symbol vtable for Cedar::Doubles::InvocationMatcher means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
-old: warning: direct access in Cedar::Doubles::HaveReceived::~HaveReceived() to global weak symbol vtable for Cedar::Doubles::InvocationMatcher means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
-old: warning: direct access in non-virtual thunk to Cedar::Doubles::HaveReceived::~HaveReceived() to global weak symbol vtable for Cedar::Doubles::InvocationMatcher means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
-old: warning: direct access in non-virtual thunk to Cedar::Doubles::HaveReceived::~HaveReceived() to global weak symbol vtable for Cedar::Doubles::InvocationMatcher means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Link /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/HelloWorldSpeca5dc81e9a102b641^71938de9a102b641^-1254"ld: warning: direct access in Cedar::Doubles::HaveReceived::~HaveReceived() to global weak symbol vtable for Cedar::Doubles::InvocationMatcher means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.ld: warning: direct access in Cedar::Doubles::HaveReceived::~HaveReceived() to global weak symbol vtable for Cedar::Doubles::InvocationMatcher means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.ld: warning: direct access in non-virtual thunk to Cedar::Doubles::HaveReceived::~HaveReceived() to global weak symbol vtable for Cedar::Doubles::InvocationMatcher means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.ld: warning: direct access in non-virtual thunk to Cedar::Doubles::HaveReceived::~HaveReceived() to global weak symbol vtable for Cedar::Doubles::InvocationMatcher means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.4(21%IDEActivityLogMessage2@289"Direct access in Cedar::Doubles::HaveReceived::~HaveReceived() to global weak symbol vtable for Cedar::Doubles::InvocationMatcher means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-369271273#0#303#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@289"Direct access in Cedar::Doubles::HaveReceived::~HaveReceived() to global weak symbol vtable for Cedar::Doubles::InvocationMatcher means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-369271273#303#303#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@310"Direct access in non-virtual thunk to Cedar::Doubles::HaveReceived::~HaveReceived() to global weak symbol vtable for Cedar::Doubles::InvocationMatcher means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-369271273#606#324#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@310"Direct access in non-virtual thunk to Cedar::Doubles::HaveReceived::~HaveReceived() to global weak symbol vtable for Cedar::Doubles::InvocationMatcher means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-369271273#930#324#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#0#--1517"Ld build/Release-iphonesimulator/HelloWorldSpec.app/HelloWorldSpec normal i386    cd /Users/Alex/Documents/HelloWorld    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator -F/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator -F/Users/Alex/Documents/HelloWorld/HelloWorldSpec/Frameworks -filelist /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/Objects-normal/i386/HelloWorldSpec.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -ObjC -all_load -lstdc++ -fobjc-arc -fobjc-link-runtime -fprofile-arcs -ftest-coverage -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -framework Cedar-iOS -o /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/HelloWorldSpec36"9391C19C-D2D2-484C-82B2-379313D59936-
-
-CProcessInfoPlistFile /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/Info.plist HelloWorldSpec/HelloWorldSpec-Info.plist
-s369271272.352685
-e369271272.355677
-r1
-xProcessInfoPlistFile
-x/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/Info.plist
-xHelloWorldSpec/HelloWorldSpec-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Process HelloWorldSpec/HelloWorldSpec-Info.plistfa635ae8a102b641^e90d5be8a102b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldSpec/HelloWorldSpec-Info.plist0000000000000000^858"ProcessInfoPlistFile build/Release-iphonesimulator/HelloWorldSpec.app/Info.plist HelloWorldSpec/HelloWorldSpec-Info.plist    cd /Users/Alex/Documents/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility HelloWorldSpec/HelloWorldSpec-Info.plist -genpkginfo /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app/Info.plist36"45B10F4D-B373-40A2-B8C5-0005D6ACF6F1-
-
-CProcessPCH /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-ejrpalhbvbaudzbkorkdppirrmlr/HelloWorldSpec-Prefix.pch.pth HelloWorldSpec/HelloWorldSpec-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s369271272.363358
-e369271272.868376
-r1
-xProcessPCH
-x/var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-ejrpalhbvbaudzbkorkdppirrmlr/HelloWorldSpec-Prefix.pch.pth
-xHelloWorldSpec/HelloWorldSpec-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile HelloWorldSpec/HelloWorldSpec-Prefix.pch5d335de8a102b641^4050dee8a102b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldSpec/HelloWorldSpec-Prefix.pch0000000000000000^3830"ProcessPCH /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-ejrpalhbvbaudzbkorkdppirrmlr/HelloWorldSpec-Prefix.pch.pth HelloWorldSpec/HelloWorldSpec-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Alex/Documents/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -fprofile-arcs -ftest-coverage -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-generated-files.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-own-target-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-all-target-headers.hmap -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-project-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/DerivedSources/i386 -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/DerivedSources -F/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator -F/Users/Alex/Documents/HelloWorld/HelloWorldSpec/Frameworks -DNS_BLOCK_ASSERTIONS=1 -fno-objc-arc --serialize-diagnostics /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-ejrpalhbvbaudzbkorkdppirrmlr/HelloWorldSpec-Prefix.pch.dia -c /Users/Alex/Documents/HelloWorld/HelloWorldSpec/HelloWorldSpec-Prefix.pch -o /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-ejrpalhbvbaudzbkorkdppirrmlr/HelloWorldSpec-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-ejrpalhbvbaudzbkorkdppirrmlr/HelloWorldSpec-Prefix.pch.d36"7E5CFBD9-4FBC-4424-A870-38F614354F6E-
-
-CProcessPCH++ /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-gjvogupfnvazvqbwpstrykdudjxy/HelloWorldSpec-Prefix.pch.pth HelloWorldSpec/HelloWorldSpec-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
-s369271272.363364
-e369271273.119597
-r1
-xProcessPCH++
-x/var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-gjvogupfnvazvqbwpstrykdudjxy/HelloWorldSpec-Prefix.pch.pth
-xHelloWorldSpec/HelloWorldSpec-Prefix.pch
-xnormal
-xi386
-xobjective-c++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile HelloWorldSpec/HelloWorldSpec-Prefix.pch1a335de8a102b641^73a11ee9a102b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Alex/Documents/HelloWorld/HelloWorldSpec/HelloWorldSpec-Prefix.pch0000000000000000^3951"ProcessPCH++ /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-gjvogupfnvazvqbwpstrykdudjxy/HelloWorldSpec-Prefix.pch.pth HelloWorldSpec/HelloWorldSpec-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Alex/Documents/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -std=gnu++11 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -fprofile-arcs -ftest-coverage -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-generated-files.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-own-target-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-all-target-headers.hmap -iquote /Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/HelloWorldSpec-project-headers.hmap -I/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/DerivedSources/i386 -I/Users/Alex/Documents/HelloWorld/build/HelloWorld.build/Release-iphonesimulator/HelloWorldSpec.build/DerivedSources -F/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator -F/Users/Alex/Documents/HelloWorld/HelloWorldSpec/Frameworks -fno-objc-arc --serialize-diagnostics /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-gjvogupfnvazvqbwpstrykdudjxy/HelloWorldSpec-Prefix.pch.dia -c /Users/Alex/Documents/HelloWorld/HelloWorldSpec/HelloWorldSpec-Prefix.pch -o /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-gjvogupfnvazvqbwpstrykdudjxy/HelloWorldSpec-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_3/tnkm0rl90bx368yb2k1rg32r0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HelloWorldSpec-Prefix-gjvogupfnvazvqbwpstrykdudjxy/HelloWorldSpec-Prefix.pch.d36"245DFA65-BA2F-4E7C-9E14-A130F2917EE4-
-
-CTouch /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app
-s369271273.634469
-e369271273.639904
-r1
-xTouch
-x/Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Touch /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app4d83a2e9a102b641^ddd1a3e9a102b641^---0#0#0#--565"Touch build/Release-iphonesimulator/HelloWorldSpec.app    cd /Users/Alex/Documents/HelloWorld    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/Alex/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/Alex/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/Alex/Documents/HelloWorld/build/Release-iphonesimulator/HelloWorldSpec.app36"1E3CA4BD-F3B0-47BE-B0F8-A01E558C7449-
-
