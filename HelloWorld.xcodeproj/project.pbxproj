@@ -24,7 +24,6 @@
 		FA4E60CF16014B600013B19F /* recording.rb in Resources */ = {isa = PBXBuildFile; fileRef = FA4E60C416014B600013B19F /* recording.rb */; };
 		FA4E60D016014B600013B19F /* frank_static_resources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = FA4E60C516014B600013B19F /* frank_static_resources.bundle */; };
 		FA4E60D116014B600013B19F /* Frankified.app in Resources */ = {isa = PBXBuildFile; fileRef = FA4E60C716014B600013B19F /* Frankified.app */; };
-		FA4E60D216014B600013B19F /* frankify.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = FA4E60C816014B600013B19F /* frankify.xcconfig */; };
 		FA4E60D316014B600013B19F /* libFrank.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FA4E60C916014B600013B19F /* libFrank.a */; };
 		FA4E60D416014B600013B19F /* libShelley.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FA4E60CA16014B600013B19F /* libShelley.a */; };
 		FA4E60D616014B820013B19F /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA4E60D516014B820013B19F /* CFNetwork.framework */; };
@@ -102,7 +101,16 @@
 		FAE91FAA15EFFC97004F15B1 /* ModelSpec.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ModelSpec.mm; sourceTree = "<group>"; };
 		FAE91FBC15F03660004F15B1 /* addtest.feature */ = {isa = PBXFileReference; lastKnownFileType = text; name = addtest.feature; path = Frank/features/addtest.feature; sourceTree = "<group>"; };
 		FAE91FC215F165B7004F15B1 /* launch_steps.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; name = launch_steps.rb; path = Frank/features/step_definitions/launch_steps.rb; sourceTree = "<group>"; };
-		FAF3F9A71603EB1500193449 /* HelloWorld copy2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "HelloWorld copy2-Info.plist"; path = "/Users/Alex/Documents/HelloWorld/HelloWorld copy2-Info.plist"; sourceTree = "<absolute>"; };
+		FAF3F9CC1603EE2400193449 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		FAF3F9D01603EE2400193449 /* HelloWorld_Frankified-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloWorld_Frankified-Info.plist"; sourceTree = "<group>"; };
+		FAF3F9D21603EE2400193449 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		FAF3F9D41603EE2400193449 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FAF3F9D61603EE2400193449 /* HelloWorld_Frankified-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HelloWorld_Frankified-Prefix.pch"; sourceTree = "<group>"; };
+		FAF3F9D71603EE2400193449 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FAF3F9D81603EE2400193449 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FAF3F9DB1603EE2400193449 /* HelloWorld_Frankified.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = HelloWorld_Frankified.xcdatamodel; sourceTree = "<group>"; };
+		FAF3F9F41603EE5E00193449 /* HelloWorld copy.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "HelloWorld copy.entitlements"; sourceTree = "<group>"; };
+		FAF3F9F51603EEAC00193449 /* HelloWorld copy.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "HelloWorld copy.entitlements"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -206,17 +214,18 @@
 		FABF8B4F15EFF4DC0081D3C7 = {
 			isa = PBXGroup;
 			children = (
+				FAF3F9F41603EE5E00193449 /* HelloWorld copy.entitlements */,
 				FA4E60D516014B820013B19F /* CFNetwork.framework */,
 				FA4E60BC16014B600013B19F /* Frank */,
 				FABF8B6415EFF4DC0081D3C7 /* HelloWorld */,
 				FABF8B8815EFF5090081D3C7 /* HelloWorldTest */,
 				FAE91F9415EFF704004F15B1 /* HelloWorldSpec */,
+				FAF3F9CE1603EE2400193449 /* HelloWorld_Frankified */,
 				FABF8B5D15EFF4DC0081D3C7 /* Frameworks */,
 				FABF8B5B15EFF4DC0081D3C7 /* Products */,
 				FAE91FBC15F03660004F15B1 /* addtest.feature */,
 				FAE91FC215F165B7004F15B1 /* launch_steps.rb */,
 				FA4E60BA16014B2C0013B19F /* HelloWorld copy-Info.plist */,
-				FAF3F9A71603EB1500193449 /* HelloWorld copy2-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -238,6 +247,7 @@
 				FABF8B6015EFF4DC0081D3C7 /* Foundation.framework */,
 				FABF8B6215EFF4DC0081D3C7 /* CoreGraphics.framework */,
 				FABF8B8415EFF5090081D3C7 /* SenTestingKit.framework */,
+				FAF3F9CC1603EE2400193449 /* CoreData.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -306,6 +316,29 @@
 				FAE91F9715EFF704004F15B1 /* InfoPlist.strings */,
 				FAE91F9A15EFF704004F15B1 /* main.m */,
 				FAE91F9C15EFF704004F15B1 /* HelloWorldSpec-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FAF3F9CE1603EE2400193449 /* HelloWorld_Frankified */ = {
+			isa = PBXGroup;
+			children = (
+				FAF3F9F51603EEAC00193449 /* HelloWorld copy.entitlements */,
+				FAF3F9D71603EE2400193449 /* AppDelegate.h */,
+				FAF3F9D81603EE2400193449 /* AppDelegate.m */,
+				FAF3F9DA1603EE2400193449 /* HelloWorld_Frankified.xcdatamodeld */,
+				FAF3F9CF1603EE2400193449 /* Supporting Files */,
+			);
+			path = HelloWorld_Frankified;
+			sourceTree = "<group>";
+		};
+		FAF3F9CF1603EE2400193449 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FAF3F9D01603EE2400193449 /* HelloWorld_Frankified-Info.plist */,
+				FAF3F9D11603EE2400193449 /* InfoPlist.strings */,
+				FAF3F9D41603EE2400193449 /* main.m */,
+				FAF3F9D61603EE2400193449 /* HelloWorld_Frankified-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -426,7 +459,6 @@
 				FA4E60CF16014B600013B19F /* recording.rb in Resources */,
 				FA4E60D016014B600013B19F /* frank_static_resources.bundle in Resources */,
 				FA4E60D116014B600013B19F /* Frankified.app in Resources */,
-				FA4E60D216014B600013B19F /* frankify.xcconfig in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -560,6 +592,14 @@
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
+		FAF3F9D11603EE2400193449 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FAF3F9D21603EE2400193449 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
@@ -570,7 +610,7 @@
 				GCC_INSTRUMENT_PROGRAM_FLOW_ARCS = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HelloWorld/HelloWorld-Prefix.pch";
-				INFOPLIST_FILE = "HelloWorld copy-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/HelloWorld copy-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/Frank\"",
@@ -593,7 +633,7 @@
 				GCC_INSTRUMENT_PROGRAM_FLOW_ARCS = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HelloWorld/HelloWorld-Prefix.pch";
-				INFOPLIST_FILE = "HelloWorld copy-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/HelloWorld copy-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/Frank\"",
@@ -841,6 +881,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		FAF3F9DA1603EE2400193449 /* HelloWorld_Frankified.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				FAF3F9DB1603EE2400193449 /* HelloWorld_Frankified.xcdatamodel */,
+			);
+			currentVersion = FAF3F9DB1603EE2400193449 /* HelloWorld_Frankified.xcdatamodel */;
+			path = HelloWorld_Frankified.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = FABF8B5115EFF4DC0081D3C7 /* Project object */;
 }

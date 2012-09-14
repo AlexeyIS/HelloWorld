@@ -4,16 +4,6 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>HelloWorld copy 2.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>4</integer>
-		</dict>
-		<key>HelloWorld copy.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>3</integer>
-		</dict>
 		<key>HelloWorld.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -28,6 +18,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>1</integer>
+		</dict>
+		<key>HelloWorld_Frankified.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
@@ -53,6 +48,21 @@
 			<true/>
 		</dict>
 		<key>FAF3F9941603EB1500193449</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FAF3F9AF1603EDC400193449</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FAF3F9C61603EE2400193449</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FAF3F9E01603EE4300193449</key>
 		<dict>
 			<key>primary</key>
 			<true/>
