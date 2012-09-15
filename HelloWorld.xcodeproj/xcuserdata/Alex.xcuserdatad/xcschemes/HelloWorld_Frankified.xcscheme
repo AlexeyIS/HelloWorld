@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FA4E60A716014B2C0013B19F"
                BuildableName = "HelloWorld copy.app"
-               BlueprintName = "HelloWorld_Frankified"
+               BlueprintName = "HelloWorld_Frankified1"
                ReferencedContainer = "container:HelloWorld.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,8 +32,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FA4E60A716014B2C0013B19F"
-            BuildableName = "HelloWorld copy.app"
+            BlueprintIdentifier = "FACDBA57160411F600C49268"
+            BuildableName = "HelloWorld_Frankified.app"
             BlueprintName = "HelloWorld_Frankified"
             ReferencedContainer = "container:HelloWorld.xcodeproj">
          </BuildableReference>
@@ -51,8 +51,8 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FA4E60A716014B2C0013B19F"
-            BuildableName = "HelloWorld copy.app"
+            BlueprintIdentifier = "FACDBA57160411F600C49268"
+            BuildableName = "HelloWorld_Frankified.app"
             BlueprintName = "HelloWorld_Frankified"
             ReferencedContainer = "container:HelloWorld.xcodeproj">
          </BuildableReference>
@@ -71,7 +71,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FA4E60A716014B2C0013B19F"
             BuildableName = "HelloWorld copy.app"
-            BlueprintName = "HelloWorld_Frankified"
+            BlueprintName = "HelloWorld_Frankified1"
             ReferencedContainer = "container:HelloWorld.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

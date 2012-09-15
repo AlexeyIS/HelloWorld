@@ -22,12 +22,22 @@
 		<key>HelloWorld_Frankified.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>3</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>FA4E60A716014B2C0013B19F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FA82E7551604108900B47A35</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FA82E7821604110000B47A35</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -38,6 +48,16 @@
 			<true/>
 		</dict>
 		<key>FABF8B8215EFF5090081D3C7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FACDBA3D1604117900C49268</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FACDBA57160411F600C49268</key>
 		<dict>
 			<key>primary</key>
 			<true/>
