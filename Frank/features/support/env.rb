@@ -5,7 +5,7 @@ environment = ENV['TESTING_ENV']
 
 if environment == 'command_line'
  BASE_DIR = "~/Library/Developer/Xcode/DerivedData/HelloWorld-gzdtfhuqgbfdwgdrhqmfamwcjoko"
- APP_BUNDLE_PATH =  "#{BASE_DIR}Build/Products/Debug-iphonesimulator/HelloWorld copy.app"
+ APP_BUNDLE_PATH =  "#{BASE_DIR}Build/Products/Debug-iphonesimulator/HelloWorld_Frankified.app"
  APP_DIR = "#{BASE_DIR}Build/Intermediates/HelloWorld.build/Debug-iphonesimulator/HelloWorld_Frankified.build"
 elsif environment == 'jenkins'
  BASE_DIR = "~/.jenkins/jobs/HelloWorldUI/workspace/"

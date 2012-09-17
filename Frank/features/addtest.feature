@@ -4,7 +4,7 @@ Feature: Add two string feature
     The user wants to fill out two text fields with strings and press Add button, then gets the result at the result text field    
 Scenario:
     Main screen
-Given I launch the headless app
+Given I launch the app
 Then I should see textfield "arg1" 
 And I should see textfield "arg2" 
 And I should see textfield "res"
